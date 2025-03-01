@@ -21,18 +21,15 @@ Find me on [GitHub](https://github.com/domoritz), [Bluesky](https://bsky.app/pro
 <picture>
   <source srcset='/images/dominik_berlin.webp' type='image/webp' />
   <img
-    src='/images/dominik_berlin.jpg'
-    alt='Dominik Moritz'>
+    src='/images/profile-pic.jpg'
+    alt='Sam Wong'>
 </picture>
 
 {:.no-list}
 * <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-* NSH 2504B
 </div>
 
 </div>
-
-During my first year at UW, I received support from the [Fulbright program](https://en.wikipedia.org/wiki/Fulbright_Program). In 2013, I received my B.S. from [Hasso Plattner Institute](https://hpi.de/). I am a scholar of the [German National Academic Foundation](http://www.studienstiftung.de/). I have worked with the [Open Knowledge Foundation](http://www.okfn.org), [Google Research](https://ai.google/research/), [Microsoft Research](https://www.microsoft.com/en-us/research/group/vibe/), and others. Details are in my [CV]({{ "/cv/" | relative_url }}).
 
 ## Featured <a href="{{ "/projects/" | relative_url }}">Projects</a>
 
