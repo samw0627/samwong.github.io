@@ -11,7 +11,7 @@ class: home
 <div class="intro" markdown="1">
 I'm a Research Assistant at the [Paul G. Allen School](https://www.cs.washington.edu/) at [University of Washington](https://www.washington.edu/), where I am working with [Amy Zhang](https://homes.cs.washington.edu/~axz/) at the [Social Futures Lab](https://social.cs.washington.edu/index.html). My research is in Human Computer Interaction and Social Computing, specifically in building systems that facilitates understanding and participation in an online social setting.
 
-I recently graduated from my mastgers degree at [Global Innovation Exchange] from the [University of Washington], where I worked with [Jerry Cao] from [Ubicomp Lab] in designing accessible eyedroppers for people with disability. I received my Bachelors degree in [Cognitive Science] and a minor in [Computer Sciece] from [UC San Diego]. Previously, I have worked with [Yan Chen] from [Virginia Tech] on building learning analytics tools. 
+I recently graduated from my Masters degree at [Global Innovation Exchange] from the [University of Washington], where I worked with [Jerry Cao] from [Ubicomp Lab] in designing accessible eyedroppers for people with disability. I received my Bachelors degree in [Cognitive Science] and a minor in [Computer Sciece] from [UC San Diego]. Previously, I have worked with [Yan Chen] from [Virginia Tech] on building learning analytics tools. 
 
 
 Find me on [GitHub](https://github.com/domoritz), [Bluesky](https://bsky.app/profile/domoritz.de), [LinkedIn](https://www.linkedin.com/in/dominik-moritz-409b8124/), [Twitter](https://twitter.com/domoritz) or [Google Scholar](https://scholar.google.com/citations?user=3ikhPPUAAAAJ&hl=en)
